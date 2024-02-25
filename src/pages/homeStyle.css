@@ -1,0 +1,108 @@
+.body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+
+.body ::-webkit-scrollbar{
+    display: none;
+}
+  
+  .sidebar {
+    float: left;
+    width: 200px;
+    padding: 20px;
+    /* background-color: #f4f4f4; */
+  }
+  
+  .main-content {
+    margin-left: 220px; /* Adjust as needed */
+    padding: 20px;
+  }
+  
+  .orange-button {
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 18px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    position: relative;
+    left: 900px;
+  }
+  
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .card {
+    border: 1px solid orange;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin-right: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+  }
+  
+  .pagination p {
+    display: inline-block;
+    margin: 0;
+    color: orange;
+  }
+
+  .rating {
+    color: gold;
+  }
+  
+  .card button {
+    background-color: transparent;
+    border: none;
+    color: gray;
+    cursor: pointer;
+    position: relative;
+    left: 270px;
+    bottom: 280px;
+    border-radius: 50px;
+    color: orange;
+    font-size: 20px;
+  }
+
+  .inputCat{
+    border:1px solid orange;
+    border-radius: 8px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-left: 5px;
+  }
+  
+  .catBtn{
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    position: relative;
+    right: -30px;
+    top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+
+  }
+  

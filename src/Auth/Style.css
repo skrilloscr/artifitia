@@ -1,0 +1,220 @@
+/* sign up styles */
+.leftDiv{
+    display: grid;
+    width: 40%;
+    height: 100vh;
+    background-color: navy;
+}
+
+.leftDiv1{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+    top: -50px;
+}
+
+.btn{
+    width: 160px;
+    border:1px solid white;
+    border-radius: 28px;
+    height: 40px;
+    background: transparent;
+    position: relative;
+    left: 100px;
+    top: -90px;
+    color: white;
+    cursor: pointer;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.head1{
+    padding-top: 130px;
+    font-size: 50px;
+}
+
+.para1{
+    position: absolute;
+    left: 150px;
+    top: 300px;
+}
+
+.para2{
+    position: absolute;
+    left: 160px;
+    top: 320px;
+}
+
+.rightDiv{
+    display: grid;
+    position: relative;
+    top: -350px;
+    right: -300px;
+    width: 100px;
+}
+
+.rightDiv1{
+    display: grid;
+    justify-content: center;
+    align-items: center;   
+    position: relative;
+    top: -110px;
+    left: 450px;
+}
+
+.form1, .form2, .form3{
+    width: 330px;
+    height: 30px;
+    border: none;
+    padding: 5px;
+    background-color: beige;
+    padding-left: 30px;
+}
+
+.btn1{
+    width: 150px;
+    position: relative;
+    left: 110px;
+    top: 10px;
+    background-color: orange;
+    border: none;
+    border-radius: 30px;
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+.head2{
+    color: orange;
+    position: relative;
+    left: 5px;
+    font-size: 40px;
+}
+
+
+
+/* styles for Sign In */
+
+
+.leftDiv2{
+    background-color: white;
+    display: grid;
+    width: 800px;
+    height: 100vh;
+}
+
+.leftDiv2-1{
+    display: grid;
+    justify-content: center;
+    align-items: center;   
+    position: relative;
+    top: -80px;
+}
+
+.head2-0{
+    color: orange;
+    position: relative;
+    font-size: 40px;
+    top: 200px;
+    left: 85px;
+}
+
+.head2-1{
+    color: orange;
+    position: relative;
+    font-size: 40px;
+    top: 100px;
+    left: 50px;
+
+}
+
+.forgot{
+    color: black;
+    position: relative;
+    left: 120px;
+    text-decoration: underline;
+    font-weight: 500px;
+}
+
+.btn3{
+    width: 150px;
+    position: relative;
+    left: 90px;
+    top: -20px;
+    background-color: orange;
+    border: none;
+    border-radius: 30px;
+    padding: 15px;
+    cursor: pointer;
+    color: white;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+.rightDiv3{
+    display: grid;
+    background-color: navy;
+    width: 550px;
+    height: 102.7vh;
+    position: relative;
+    left: 800px;
+    top: -650px;
+}
+
+.rightDiv3-1{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.head3{
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+}
+
+.para2-0{
+    font-size: 17px;
+    position: relative;
+    top: 20px;
+    left: 19px;
+}
+
+.para2-1{
+    font-size: 18px;
+    position: relative;
+    top: -110px;
+    left: 40px;
+}
+
+.btn4{
+    width: 160px;
+    border:1px solid white;
+    border-radius: 28px;
+    height: 40px;
+    background: transparent;
+    position: relative;
+    left: 70px;
+    top: -200px;
+    color: white;
+    cursor: pointer;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+
+}
